@@ -39,7 +39,7 @@ docker build -t dice-mcp-server .
 - **Dice Roller** - Fun D&D dice rolling MCP server with all files ready to run
 
 ### 🛠️ **MCP Builder Prompt**
-NetworkChuck's custom prompt that generates complete MCP servers from simple descriptions. Just describe what you want, and it creates everything!
+Armaddi Technologies custom prompt that generates complete MCP servers from simple descriptions. Just describe what you want, and it creates everything!
 
 ### 📖 **Comprehensive Documentation**
 - Step-by-step installation guides (Mac, Windows, Linux)
