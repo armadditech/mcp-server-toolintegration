@@ -4,7 +4,7 @@
 [![Docker](https://img.shields.io/badge/Docker-Desktop-blue)](https://www.docker.com/products/docker-desktop/)
 [![MCP](https://img.shields.io/badge/MCP-Protocol-green)](https://modelcontextprotocol.io/)
 
-Learn how to build and deploy MCP (Model Context Protocol) servers using Docker! This repository contains everything from the NetworkChuck Docker MCP video tutorial, including complete examples, templates, and step-by-step guides.
+Learn how to build and deploy MCP (Model Context Protocol) servers using Docker! This repository from Armaddi Technologies has everything including complete examples, templates, and step-by-step guides.
 
 ## 🎥 Watch the Tutorial
 
